@@ -1,0 +1,4 @@
+export const POST_DETAILS = 'POST_DETAILS';
+export const POST_FAIL = 'POST_FAIL';
+export const COMMENTS_DETAILS='COMMENTS_DETAILS';
+export const COMMENTS_FAIL='COMMENTS_FAIL';
